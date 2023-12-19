@@ -1,7 +1,12 @@
-### Olá,
-Bem vindo ao meu github. 👋
+### <h1>Olá,<h1/>
+<h2>Bem vindo ao meu github. 👋</h2>
+
+
+<h2>Estudante de Engenharia de Software pela PUC-CAMPINAS</h2>
 
 ###
+<h1>Experiências de forma autônoma e projetos da faculdade:</h1>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
