@@ -1,11 +1,12 @@
-### <h1>Olá,<h1/>
+### <h1>Olá, meu nome é Cicero Matheus<h1/>
 <h2>Bem vindo ao meu github. 👋</h2>
 
 
 <h2>Estudante de Engenharia de Software pela PUC-CAMPINAS</h2>
 
 ###
-<h1>Experiências de forma autônoma e projetos da faculdade:</h1>
+<h3>Experiências de forma autônoma e projetos da faculdade:</h3>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
